@@ -95,7 +95,7 @@ void *sender2() {
 
 void *receiver() {
 	while (1) {
-		sleep(5);
+		
 		int i;
 		int flag = 0;
     	char s[1024];
